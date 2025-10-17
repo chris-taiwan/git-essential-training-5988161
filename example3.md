@@ -1,2 +1,2 @@
 another file
-creating a diff
+creating a conflict
